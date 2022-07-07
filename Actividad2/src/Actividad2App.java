@@ -1,5 +1,5 @@
 
-public class Actividad2 {
+public class Actividad2App {
 	public static void main (String args[]) {
 		
 		int N = 7;
